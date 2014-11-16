@@ -1,0 +1,6 @@
+[submodule "gapp"]
+	path = gapp
+	url = git@github.com:misty-fungus/gapp.git
+[submodule "gcloud-python"]
+	path = gcloud-python
+	url = git@github.com:GoogleCloudPlatform/gcloud-python.git
